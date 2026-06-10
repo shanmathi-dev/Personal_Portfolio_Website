@@ -1,44 +1,48 @@
-# Student Portfolio Website
+# Personal Portfolio Website
 
-A responsive personal portfolio website built using HTML, CSS, and JavaScript.
-
-## Features
-
-- Responsive design
-- Dark mode UI
-- About section
-- Skills section
-- Project showcase
-- Contact section
-- Contact form
-- Resume download
-- GitHub and LinkedIn links
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-
-## Projects Included
-
-### Task Manager App
-A task management app with add, delete, edit, filter and analytics features.
-
-### Portfolio Website
-Responsive personal portfolio website.
-
-### Form Validation Project
-Modern login form with validation.
+A modern and responsive personal portfolio website built using HTML, CSS, and JavaScript. This portfolio showcases my skills, projects, resume, and contact information.
 
 ## Live Demo
 
-Add your deployed portfolio link here.
+🔗 Portfolio: https://shanmathi-dev.github.io/Personal_Portfolio_Website/
 
-## GitHub Repository
+## Features
 
-Add your GitHub repo link here.
+* Responsive Design
+* Dark / Light Mode Toggle
+* Smooth Scrolling Navigation
+* Animated Typing Effect
+* Skills Progress Bars
+* Project Showcase Section
+* Resume Download Option
+* Contact Links
+* Mobile Friendly Layout
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+* GitHub Pages
+
+## Projects Included
+
+1. Advanced Student Profile Generator
+2. Student Placement Tracker
+3. Advanced Productivity Dashboard
+4. Expense Tracker
+5. Portfolio Website
+6. Color Block Generator
+7. Dynamic Quote Generator
+8. Login Form Validation
 
 ## Author
 
-C.T. Shanmathi
+**C.T. Shanmathi**
+
+* GitHub: https://github.com/shanmathi-dev
+* LinkedIn: https://linkedin.com/in/shanmathi341
+
+## License
+
+This project is open source and available for learning and educational purposes.

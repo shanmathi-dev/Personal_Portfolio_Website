@@ -4,7 +4,7 @@
 
 // 🔹 TYPING TEXT
 const text =
-"Frontend Developer | Java Programmer | Open to Internships";
+"Frontend Developer | Web Developer | UI/UX Enthusiast";
 
 // 🔹 GO TO PROJECTS
 function goToProjects() {
@@ -66,12 +66,14 @@ window.addEventListener("scroll", () => {
 
         if (sectionTop < window.innerHeight - 100) {
 
-            if(skillBars[0]) skillBars[0].style.width = "90%";
-            if(skillBars[1]) skillBars[1].style.width = "85%";
-            if(skillBars[2]) skillBars[2].style.width = "75%";
-            if(skillBars[3]) skillBars[3].style.width = "70%";
-            if(skillBars[4]) skillBars[4].style.width = "65%";
-            if(skillBars[5]) skillBars[5].style.width = "70%";
+            if(skillBars[0]) skillBars[0].style.width = "90%"; // HTML
+            if(skillBars[1]) skillBars[1].style.width = "85%"; // CSS
+            if(skillBars[2]) skillBars[2].style.width = "75%"; // JavaScript
+            if(skillBars[3]) skillBars[3].style.width = "70%"; // Java
+            if(skillBars[4]) skillBars[4].style.width = "65%"; // Python
+            if(skillBars[5]) skillBars[5].style.width = "70%"; // SQL
+            if(skillBars[6]) skillBars[6].style.width = "75%"; // Git
+            if(skillBars[7]) skillBars[7].style.width = "40%"; // React
 
         }
     }
